@@ -1,7 +1,7 @@
 
-# Transferencia Bancaria Validator
+# Serie 3 problema 2 del parcial 1 de lenguajes formales.
 
-Este proyecto contiene un programa en Java que valida cadenas de transferencia bancaria utilizando una expresión regular. El objetivo es asegurar que los datos ingresados sean válidos y cumplan con el formato especificado.
+La SIB se nos solicito nuestro apoyo  para poder verificar que la transferencia electrónica de un banco a otro se realizó de forma correcta. Este proyecto contiene un programa en Java que valida cadenas de transferencia bancaria utilizando una expresión regular. El objetivo es asegurar que los datos ingresados sean válidos y cumplan con el formato especificado.
 
 ## Expresión Regular
 
